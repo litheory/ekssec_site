@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: 模拟真实环境的网络靶场
+  icon: crosshairs
   icon_pack: fab
-  name: R
+  name: WeBug靶场
 - description: 100%
-  icon: chart-line
+  icon: broom
   icon_pack: fas
-  name: Statistics
+  name: 自动化武器库
 - description: 10%
-  icon: camera-retro
+  icon: github-square
   icon_pack: fas
-  name: Photography
+  name: 代码泄露检测
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
