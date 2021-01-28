@@ -2,6 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/customization/#page-sharer
 
 [[buttons]]
+  id = "weibo"
+  url = "https://service.weibo.com/share/share.php?url={url}&title={title}"
+  title = "Weibo"
+  icon_pack = "fab"
+  icon = "weibo"
+  enable = true
+
+[[buttons]]
   id = "twitter"
   url = "https://twitter.com/intent/tweet?url={url}&text={title}"
   title = "Twitter"
@@ -39,14 +47,6 @@
   title = "WhatsApp"
   icon_pack = "fab"
   icon = "whatsapp"
-  enable = true
-
-[[buttons]]
-  id = "weibo"
-  url = "https://service.weibo.com/share/share.php?url={url}&title={title}"
-  title = "Weibo"
-  icon_pack = "fab"
-  icon = "weibo"
   enable = true
 
 [[buttons]]
