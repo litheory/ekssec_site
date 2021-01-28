@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: 产品
 subtitle:
 
 # Showcase personal skills or business features.
@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 模拟真实环境的网络靶场
   icon: crosshairs
-  icon_pack: fab
+  icon_pack: far
   name: WeBug靶场
 - description: 100%
   icon: broom
@@ -26,7 +26,7 @@ feature:
   name: 自动化武器库
 - description: 10%
   icon: github-square
-  icon_pack: fas
+  icon_pack: fab
   name: 代码泄露检测
 
 # Uncomment to use emoji icons.
