@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 模拟真实环境的网络靶场
   icon: crosshairs
-  icon_pack: far
+  icon_pack: fab
   name: WeBug靶场
 - description: 100%
   icon: broom
